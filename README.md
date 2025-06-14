@@ -29,7 +29,7 @@ This is a simple Python script that allows users to convert their **letter grade
 3. Choose either:
 
    * A letter grade (e.g., `B+`, `A-`, `F`, etc.)
-   * Or type `N` if you want to convert a **percentage** to GPA.
+   * Or type a number if you want to convert a **percentage** to GPA.
 
 ---
 
@@ -45,9 +45,8 @@ Output: 3.3
 ### 2. Percentage Input
 
 ```
-Enter your grade: N
+Enter your grade: 80
 What is the highest achievable GPA? e.g 4 or 5: 4
-What percentage did you get? Do not type symbols, only numbers: 80
 Output: 3.2
 ```
 
